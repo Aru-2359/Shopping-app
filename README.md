@@ -2,6 +2,8 @@
 
 Welcome to OpulenceVille, a personal endeavour that beautifully combines HTML, CSS, and JavaScript to bring the world of online shopping to life.
 
+![Screenshot 2023-08-20 213610](https://github.com/Aru-2359/Shopping-app/assets/107833788/4b3749c0-1c33-4233-a373-2648df659467)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
