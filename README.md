@@ -22,6 +22,9 @@ A look into the world of e-commerce, OppulenceVille illustrates the possibilitie
 
 - **Responsive Design:** Thanks to a responsive layout created using CSS, enjoy a seamless shopping experience across devices.
 
+## Demo
+https://aru-2359.github.io/Shopping-app/
+
 ## Usage
 
 1. Clone this repository to your local machine.
